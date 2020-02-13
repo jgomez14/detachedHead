@@ -1,0 +1,4 @@
+Escenario 1: Para solucionar el estado de detached head simplemente se 
+	     hace un git checkout a la rama correspondiente (por ejemplo master)
+
+Escenario 2:
